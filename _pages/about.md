@@ -11,7 +11,7 @@ redirect_from:
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-Currently I am a Research Engineer at [Tsinghua AIR](https://air.tsinghua.edu.cn/en/).
+Currently I am a Research Engineer at [Tsinghua AIR](https://air.tsinghua.edu.cn/en/){:target="_blank"}.
 
 Publications
 ======
