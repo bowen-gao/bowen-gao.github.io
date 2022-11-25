@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/canceralign
 excerpt: "Bowen Gao, Yunan Luo, Jianzhu Ma, Sheng Wang"
 date: 2020-11-17
-venue: 'NeurIPS'
+venue: 'Preprint'
 paperurl: 
 citation: 
 ---
