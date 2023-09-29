@@ -38,3 +38,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0AHVwPxv42PZ7jzBaBLXAzGbMZjvAqe6VPW45ylcqrI&cl=ffffff&w=a"></script>
