@@ -18,9 +18,10 @@ Previously, I worked as a Machine Learning Engineer at [Bytedance](https://www.b
 
 Education
 ======
-* B.S. in Computer Engineering, University of Toronto, 2019
-* M.S. in Electrical Engineering, Caltech, 2021
+
 * Ph.D in Computer Science, Tsinghua University, 2027 (expected)
+* M.S. in Electrical Engineering, Caltech, 2021
+* B.S. in Computer Engineering, University of Toronto, 2019
 
 Work experience
 ======
