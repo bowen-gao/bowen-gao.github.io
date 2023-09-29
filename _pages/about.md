@@ -13,6 +13,24 @@ redirect_from:
 
 Currently I am a Research Engineer at [Tsinghua AIR](https://air.tsinghua.edu.cn/en/){:target="_blank"}, supervised by Professor [Hao Zhou](https://zhouh.github.io/){:target="_blank"} and Professor [Yanyan Lan](https://air.tsinghua.edu.cn/en/info/1046/1195.htm){:target="_blank"}. My research interest lies in AI for Drug Discovery. Specifically, I am working on deep models for small molecule / protein generation. I was a Machine Learning Engineer at [Bytedance](https://www.bytedance.com/en/){:target="_blank"} from June 2021 to Sep 2022, working on Recommendation Systems. I got my Bachelor's Degree in Computer Engineering from the [University of Toronto](https://www.ece.utoronto.ca/){:target="_blank"} in June 2019, and my Master's Degree in Electrical Engineering from [Caltech](https://www.caltech.edu/){:target="_blank"} in June 2021.
 
+
+Education
+======
+* B.S. in Computer Engineering, University of Toronto, 2019
+* M.S. in Electrical Engineering, Caltech, 2021
+* Ph.D in Computer Science, Tsinghua University, 2027 (expected)
+
+Work experience
+======
+
+* 2022.09 - Present: Research Engineer
+  * Tsinghua University
+  * Worked on AI for Drug Discovery
+
+* 2021.07 - 2022.09: Machine Learning Engineer
+  * Bytedance
+  * Worked on Recommendation System for Douyin, Tiktok
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
