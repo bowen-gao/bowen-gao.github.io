@@ -11,7 +11,9 @@ redirect_from:
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-Currently I am a Research Engineer at [Tsinghua AIR](https://air.tsinghua.edu.cn/en/){:target="_blank"}, supervised by Professor [Yanyan Lan](https://air.tsinghua.edu.cn/en/info/1046/1195.htm){:target="_blank"}. My research interest lies in AI for Drug Discovery. Specifically, I am working on deep models for small molecule / protein representation learning and generation. I was a Machine Learning Engineer at [Bytedance](https://www.bytedance.com/en/){:target="_blank"} from June 2021 to Sep 2022, working on Recommendation Systems. I got my Bachelor's Degree in Computer Engineering from the [University of Toronto](https://www.ece.utoronto.ca/){:target="_blank"} in June 2019, and my Master's Degree in Electrical Engineering from [Caltech](https://www.caltech.edu/){:target="_blank"} in June 2021.
+I am a Research Engineer at [Tsinghua AIR](https://air.tsinghua.edu.cn/en/), mentored by Professor [Yanyan Lan](https://air.tsinghua.edu.cn/en/info/1046/1195.htm). My focus is on AI for Drug Discovery, particularly deep learning models for small molecule and protein representation and generation. 
+
+Previously, I worked as a Machine Learning Engineer at [Bytedance](https://www.bytedance.com/en/) (June 2021 - Sep 2022), specializing in Recommendation Systems. My academic credentials include a Bachelor's in Computer Engineering from the [University of Toronto](https://www.ece.utoronto.ca/) (2019) and a Master's in Electrical Engineering from [Caltech](https://www.caltech.edu/) (2021).
 
 
 Education
