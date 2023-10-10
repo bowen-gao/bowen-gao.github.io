@@ -19,9 +19,9 @@ Previously, I worked as a Machine Learning Engineer at <a href="https://www.byte
 Education
 ======
 
-* Ph.D in Computer Science, Tsinghua University, 2027 (expected)
-* M.S. in Electrical Engineering, Caltech, 2021
-* B.S. in Computer Engineering, University of Toronto, 2019
+* Ph.D in Computer Science, Tsinghua University, 2024 - 
+* M.S. in Electrical Engineering, Caltech, 2019 - 2021
+* B.S. in Computer Engineering, University of Toronto, 2014- 2019
 
 Work experience
 ======
