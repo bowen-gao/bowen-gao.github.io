@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,26 +15,17 @@ Education
 * M.S. in Electrical Engineering, Caltech, 2021
 * Ph.D in Computer Science, Tsinghua University, 2027 (expected)
 
-<!-- Work experience
+Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* 2022.09 - Present: Research Engineer
+  * Tsinghua University
+  * Worked on AI for Drug Discovery
+
+* 2021.07 - 2022.09: Machine Learning Engineer
+  * Bytedance
+  * Worked on Recommendation System for Douyin, Tiktok
+
 
 Publications
 ======
