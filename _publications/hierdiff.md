@@ -2,7 +2,7 @@
 title: "Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D"
 collection: publications
 permalink: /publication/hierdiff
-excerpt: 'Bo Qiang, Yuxuan Song, Minkai Xu, Jingjing Gong, <u>Bowen Gao</u>, Hao Zhou, Weiying Ma, Yanyan Lan'
+excerpt: 'Bo Qiang, Yuxuan Song, Minkai Xu, Jingjing Gong, <strong>Bowen Gao</strong>, Hao Zhou, Weiying Ma, Yanyan Lan'
 date: 2023-05-26
 venue: 'ICML'
 paperurl: "https://arxiv.org/abs/2305.13266.pdf"
