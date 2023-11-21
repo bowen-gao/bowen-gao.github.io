@@ -2,7 +2,7 @@
 title: "Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods"
 collection: publications
 permalink: /publication/delta
-excerpt: 'Minsi Ren, <u>Bowen Gao</u>, Bo Qiang, Yanyan Lan'
+excerpt: 'Minsi Ren, <strong>Bowen Gao</strong>, Bo Qiang, Yanyan Lan'
 date: 2023-10-28
 venue: 'NeurIPS GenBio workshop'
 paperurl: ""
