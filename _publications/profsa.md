@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/profsa
 excerpt: '<strong>Bowen Gao</strong>, Yinjun Jia, Yuanle Mo, Yuyan Ni, Weiying Ma, Zhiming Ma, Yanyan Lan'
 date: 2023-09-26
-venue: 'Under Review'
+venue: 'ICLR 2024'
 paperurl: ""
 citation: 
 ---
