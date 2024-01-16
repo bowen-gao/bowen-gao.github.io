@@ -3,8 +3,8 @@ title: "Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Ali
 collection: publications
 permalink: /publication/profsa
 excerpt: '<strong>Bowen Gao</strong>, Yinjun Jia, Yuanle Mo, Yuyan Ni, Weiying Ma, Zhiming Ma, Yanyan Lan'
-date: 2023-09-26
-venue: 'ICLR 2024'
+date: 2024-01-16
+venue: 'ICLR'
 paperurl: ""
 citation: 
 ---
