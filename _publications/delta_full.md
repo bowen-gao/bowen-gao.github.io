@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/drugclip
 excerpt: '<strong>Bowen Gao</strong>, Minsi Ren, Yuyan Ni, Yanwen Huang, Bo Qiang, Zhi-Ming Ma, Wei-Ying Ma, Yanyan Lan'
 date: 2024-07-21
-venue: 'ICML 2024'
+venue: 'ICML'
 paperurl: ""
 citation: 
 ---
