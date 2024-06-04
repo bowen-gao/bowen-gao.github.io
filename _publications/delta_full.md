@@ -3,7 +3,7 @@ title: "Rethinking Specificity in SBDD: Leveraging Delta Score and Energy-Guided
 collection: publications
 permalink: /publication/drugclip
 excerpt: '<strong>Bowen Gao</strong>, Minsi Ren, Yuyan Ni, Yanwen Huang, Bo Qiang, Zhi-Ming Ma, Wei-Ying Ma, Yanyan Lan'
-date: 2024-07-21
+date: 2024-04-21
 venue: 'ICML'
 paperurl: ""
 citation: 
