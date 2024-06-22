@@ -64,8 +64,8 @@ In Neural Information Processing Systems (**NeurIPS**) 2023.
 Bo Qiang\*, Yuxuan Song\*, Minkai Xu, Jingjing Gong, **Bowen Gao**, Hao Zhou, Weiying Ma, Yanyan Lan  
 In International Conference on Machine Learning  (**ICML**) 2023.
 
-* [cancerAlign: Stratifying tumors by unsupervised alignment across cancer types](https://www.biorxiv.org/content/10.1101/2020.11.17.387860v1). 
-Bowen Gao, Yunan Luo, Jianzhu Ma, Sheng Wang  
+* [cancerAlign: Stratifying tumors by unsupervised alignment across cancer types](https://www.biorxiv.org/content/10.1101/2020.11.17.387860v1).  
+Bowen Gao, Yunan Luo, Jianzhu Ma, Sheng Wang   
 In biorxiv preprint.
 
 
