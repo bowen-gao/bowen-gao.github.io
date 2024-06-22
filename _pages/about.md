@@ -53,7 +53,7 @@ In arXiv preprint arXiv:2405.17802
 In International Conference on Machine Learning  (**ICML**) 2024.
 * [Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment](https://openreview.net/pdf?id=uMAujpVi9m).  
 **Bowen Gao\***, Yinjun Jia\*, Yuanle Mo, Yuyan Ni, Weiying Ma, Zhiming Ma, Yanyan Lan  
-in International Conference on Learning Representations (**ICLR**) 2024.
+In International Conference on Learning Representations (**ICLR**) 2024.
 * [Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods](https://openreview.net/pdf?id=iO59l1LFvJ).  
 Minsi Ren, **Bowen Gao**, Bo Qiang, Yanyan Lan  
 In GenBio workshop NeurIPS 2023.
