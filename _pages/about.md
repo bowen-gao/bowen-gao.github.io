@@ -37,9 +37,9 @@ Work experience
 
 Publications <span style="font-size: 15px;">(* euqal contribution)
 ======
-
-
-
+* [Deep contrastive learning enables genome-wide virtual screening](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf).  
+Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, Jiekang Tian, Weiying Ma, Yaqin Zhang, Chuangye Yan, Wei Zhang, Yanyan Lan
+In biorxiv preprint
 * [SIU: A Million-Scale Structural Small Molecule-Protein Interaction Dataset for Unbiased Bioactivity Prediction](https://arxiv.org/abs/2406.08961).  
 Yanwen Huang\*, **Bowen Gao\***, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
 In arXiv preprint arXiv:2406.08961
