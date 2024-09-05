@@ -38,7 +38,7 @@ Work experience
   * Worked on Recommendation System for Douyin, Tiktok
 
 
-Publications <span style="font-size: 15px;">(* euqal contribution)
+Preprints <span style="font-size: 15px;">(* euqal contribution)
 ======
 * [Deep contrastive learning enables genome-wide virtual screening](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf){:target="_blank"}.  
 Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, Jiekang Tian, Weiying Ma, Yaqin Zhang, Chuangye Yan, Wei Zhang, Yanyan Lan  
@@ -52,6 +52,9 @@ In arXiv preprint arXiv:2406.08980
 * [Multi-level Interaction Modeling for Protein Mutational Effect Prediction](https://arxiv.org/abs/2405.17802){:target="_blank"}.  
 Yuanle Mo\*, Xin Hong\*, **Bowen Gao**, Yinjun Jia, Yanyan Lan  
 In arXiv preprint arXiv:2405.17802
+
+Publications <span style="font-size: 15px;">(* euqal contribution)
+======
 * [Rethinking Specificity in SBDD: Leveraging Delta Score and Energy-Guided Diffusion](https://openreview.net/pdf?id=8WSNl2XA9r){:target="_blank"}.  
 **Bowen Gao\***, Minsi Ren\*, Yuyan Ni, Yanwen Huang, Bo Qiang, Zhi-Ming Ma, Wei-Ying Ma, Yanyan Lan  
 In International Conference on Machine Learning  (**ICML**) 2024.
