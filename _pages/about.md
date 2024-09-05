@@ -17,6 +17,9 @@ Before beginning my PhD, I worked as a Research Engineer at [Tsinghua AIR](https
 
 I hold a Bachelor’s degree in Computer Engineering from the [University of Toronto](https://www.ece.utoronto.ca/) (2019) and a Master’s degree in Electrical Engineering from [Caltech](https://www.caltech.edu/) (2021).
 
+<span style="color: red; font-size: 24px; font-weight: bold;">Check our [Drug-The-Whole-Genome](https://drug-the-whole-genome.yanyanlan.com/) Project at [ATOM Lab](https://atomlab.yanyanlan.com/)</span>
+
+
 Education
 ======
 * PhD  in Computer science and technology, Tsinghua University, 2024 - Present
