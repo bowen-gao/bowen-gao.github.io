@@ -52,6 +52,9 @@ In arXiv preprint arXiv:2406.08980
 * [Multi-level Interaction Modeling for Protein Mutational Effect Prediction](https://arxiv.org/abs/2405.17802){:target="_blank"}.  
 Yuanle Mo\*, Xin Hong\*, **Bowen Gao**, Yinjun Jia, Yanyan Lan  
 In arXiv preprint arXiv:2405.17802
+* [cancerAlign: Stratifying tumors by unsupervised alignment across cancer types](https://www.biorxiv.org/content/10.1101/2020.11.17.387860v1){:target="_blank"}.  
+Bowen Gao, Yunan Luo, Jianzhu Ma, Sheng Wang   
+In biorxiv preprint.
 
 Publications <span style="font-size: 15px;">(* euqal contribution)
 ======
@@ -70,9 +73,6 @@ In Neural Information Processing Systems (**NeurIPS**) 2023.
 * [Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D](https://proceedings.mlr.press/v202/qiang23a/qiang23a.pdf){:target="_blank"}.  
 Bo Qiang\*, Yuxuan Song\*, Minkai Xu, Jingjing Gong, **Bowen Gao**, Hao Zhou, Weiying Ma, Yanyan Lan  
 In International Conference on Machine Learning  (**ICML**) 2023.
-* [cancerAlign: Stratifying tumors by unsupervised alignment across cancer types](https://www.biorxiv.org/content/10.1101/2020.11.17.387860v1){:target="_blank"}.  
-Bowen Gao, Yunan Luo, Jianzhu Ma, Sheng Wang   
-In biorxiv preprint.
 
 
 
