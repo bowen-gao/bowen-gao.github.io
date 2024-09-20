@@ -11,7 +11,7 @@ redirect_from:
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-I am a Computer Science PhD student at Tsinghua University, supervised by Professor [Ya-Qin Zhang](https://scholar.google.com/citations?user=mDOMfxIAAAAJ&hl=en) and Professor [Yanyan Lan](https://yanyanlan.com/). My research focuses on AI for Drug Discovery, particularly deep learning models for small molecule and protein representation and generation. 
+I am a Computer Science PhD student at Tsinghua University <img src="[image_url](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsinghua_University_Logo.svg/300px-Tsinghua_University_Logo.svg.png)" width="20" height="20">, supervised by Professor [Ya-Qin Zhang](https://scholar.google.com/citations?user=mDOMfxIAAAAJ&hl=en) and Professor [Yanyan Lan](https://yanyanlan.com/). My research focuses on AI for Drug Discovery, particularly deep learning models for small molecule and protein representation and generation. 
 
 Before beginning my PhD, I worked as a Research Engineer at [Tsinghua AIR](https://air.tsinghua.edu.cn/en/) from September 2022 to August 2024. Prior to that, I worked as a Machine Learning Engineer at [Bytedance](https://www.bytedance.com/en) from June 2021 to September 2022, where I specialized in Recommendation Systems.
 
