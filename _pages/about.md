@@ -11,11 +11,11 @@ redirect_from:
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-I am a Computer Science PhD student at Tsinghua University <img src="[image_url](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsinghua_University_Logo.svg/300px-Tsinghua_University_Logo.svg.png)" width="20" height="20">, supervised by Professor [Ya-Qin Zhang](https://scholar.google.com/citations?user=mDOMfxIAAAAJ&hl=en) and Professor [Yanyan Lan](https://yanyanlan.com/). My research focuses on AI for Drug Discovery, particularly deep learning models for small molecule and protein representation and generation. 
+I am a Computer Science PhD student at Tsinghua University <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsinghua_University_Logo.svg/300px-Tsinghua_University_Logo.svg.png" width="20" height="20">, supervised by Professor [Ya-Qin Zhang](https://scholar.google.com/citations?user=mDOMfxIAAAAJ&hl=en) and Professor [Yanyan Lan](https://yanyanlan.com/). My research focuses on AI for Drug Discovery, particularly deep learning models for small molecule and protein representation and generation. 
 
 Before beginning my PhD, I worked as a Research Engineer at [Tsinghua AIR](https://air.tsinghua.edu.cn/en/) from September 2022 to August 2024. Prior to that, I worked as a Machine Learning Engineer at [Bytedance](https://www.bytedance.com/en) from June 2021 to September 2022, where I specialized in Recommendation Systems.
 
-I hold a Bachelor’s degree in Computer Engineering from the [University of Toronto](https://www.ece.utoronto.ca/) (2019) and a Master’s degree in Electrical Engineering from [Caltech](https://www.caltech.edu/) (2021).
+I hold a Bachelor’s degree in Computer Engineering from the [University of Toronto](https://www.ece.utoronto.ca/) <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/440px-Utoronto_coa.svg.png" width="20" height="20">(2019) and a Master’s degree in Electrical Engineering from [Caltech](https://www.caltech.edu/) <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Seal_of_the_California_Institute_of_Technology.svg/300px-Seal_of_the_California_Institute_of_Technology.svg.png" width="20" height="20">(2021).
 
 <span style="color: red; font-size: 24px; font-weight: bold;">Check our [Drug-The-Whole-Genome](https://drug-the-whole-genome.yanyanlan.com/){:target="_blank"} Project at [ATOM Lab](https://atomlab.yanyanlan.com/){:target="_blank"}</span>
 
