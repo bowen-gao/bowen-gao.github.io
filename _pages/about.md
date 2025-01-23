@@ -41,20 +41,21 @@ Work experience
 Preprints <span style="font-size: 15px;">(* euqal contribution)
 ======
 * [Deep contrastive learning enables genome-wide virtual screening](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf){:target="_blank"}.  
-Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, Jiekang Tian, Weiying Ma, Yaqin Zhang, Chuangye Yan, Wei Zhang, Yanyan Lan  
+Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, Jiekang Tian, Weiying Ma, Yaqin Zhang, Chuangye Yan, Wei Zhang, Yanyan Lan 
 In biorxiv preprint
-* [SIU: A Million-Scale Structural Small Molecule-Protein Interaction Dataset for Unbiased Bioactivity Prediction](https://arxiv.org/abs/2406.08961){:target="_blank"}.  
-Yanwen Huang\*, **Bowen Gao\***, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
-In arXiv preprint arXiv:2406.08961
-* [From Theory to Therapy: Reframing SBDD Model Evaluation via Practical Metrics](https://arxiv.org/abs/2406.08980){:target="_blank"}.    
-**Bowen Gao\***, Haichuan Tan\*, Yanwen Huang, Minsi Ren, Xiao Huang, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
-In arXiv preprint arXiv:2406.08980
+
 * [Multi-level Interaction Modeling for Protein Mutational Effect Prediction](https://arxiv.org/abs/2405.17802){:target="_blank"}.  
 Yuanle Mo\*, Xin Hong\*, **Bowen Gao**, Yinjun Jia, Yanyan Lan  
 In arXiv preprint arXiv:2405.17802
 
 Publications <span style="font-size: 15px;">(* euqal contribution)
 ======
+* [Redefining the task of Bioactivity Prediction](https://openreview.net/pdf?id=S8gbnkCgxZ){:target="_blank"}.  
+Yanwen Huang\*, **Bowen Gao\***, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
+In International Conference on Learning Representations (**ICLR**) 2025.
+* [Reframing Structure-Based Drug Design Model Evaluation via Metrics Correlated to Practical Needs](https://openreview.net/pdf?id=RyWypcIMiE){:target="_blank"}.    
+**Bowen Gao\***, Haichuan Tan\*, Yanwen Huang, Minsi Ren, Xiao Huang, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
+In International Conference on Learning Representations (**ICLR**) 2025.
 * [Rethinking Specificity in SBDD: Leveraging Delta Score and Energy-Guided Diffusion](https://openreview.net/pdf?id=8WSNl2XA9r){:target="_blank"}.  
 **Bowen Gao\***, Minsi Ren\*, Yuyan Ni, Yanwen Huang, Bo Qiang, Zhi-Ming Ma, Wei-Ying Ma, Yanyan Lan  
 In International Conference on Machine Learning  (**ICML**) 2024.
