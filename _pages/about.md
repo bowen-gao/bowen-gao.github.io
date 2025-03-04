@@ -40,6 +40,10 @@ Work experience
 
 Preprints <span style="font-size: 15px;">(* euqal contribution)
 ======
+* [Pushing the boundaries of Structure-Based Drug Design through Collaboration with Large Language Models](https://arxiv.org/abs/2503.01376){:target="_blank"}.  
+**Bowen Gao\***, Yanwen Huang\*, Yiqiao Liu, Wenxuan Xie, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan
+In arXiv preprint arXiv:2503.01376
+
 * [Deep contrastive learning enables genome-wide virtual screening](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf){:target="_blank"}.  
 Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, Jiekang Tian, Weiying Ma, Yaqin Zhang, Chuangye Yan, Wei Zhang, Yanyan Lan 
 In biorxiv preprint
