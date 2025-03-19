@@ -29,7 +29,7 @@ Education
 Work experience
 ======
 
-* 2022.09 - Present: Research Engineer
+* 2022.09 - 2024.08: Research Engineer
   * Tsinghua University
   * Worked on AI for Drug Discovery
 
