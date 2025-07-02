@@ -19,6 +19,8 @@ I hold a Bachelor’s degree in Computer Engineering from the [University of Tor
 
 <span style="color: red; font-size: 24px; font-weight: bold;">Check our [Drug-The-Whole-Genome](https://drug-the-whole-genome.yanyanlan.com/){:target="_blank"} Project at [ATOM Lab](https://atomlab.yanyanlan.com/){:target="_blank"}</span>
 
+<span style="color: red; font-size: 24px; font-weight: bold;">Check our [Molecule Vritual Screening Platform](https://drugclip.com/){:target="_blank"} Project at [ATOM Lab](https://atomlab.yanyanlan.com/){:target="_blank"}</span>
+
 
 Education
 ======
