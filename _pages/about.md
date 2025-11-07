@@ -63,58 +63,61 @@ Publications <span style="font-size: 15px;">(\* equal contribution)</span>
 
 **Deep Contrastive Learning Enables Genome-wide Virtual Screening**  
 Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Jiqing Zheng\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, et al.  
-<span style="color: #d9534f; font-weight: bold;">🔬 Science 2025 (Accepted)</span> / [Paper](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf){:target="_blank"}
+<span style="color: #DC143C; font-weight: bold;">⭐ Science 2025 (Accepted)</span> / [Paper](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf){:target="_blank"}
 
 **SIU: A Million-Scale Structural Small Molecule-Protein Interaction Dataset for Unbiased Bioactivity Prediction**  
 Yanwen Huang\*, **Bowen Gao\***, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
-<span style="color: #0275d8; font-weight: bold;">📊 ICLR 2025</span> / [Paper](https://openreview.net/pdf?id=S8gbnkCgxZ){:target="_blank"}
+<span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2025</span> / [Paper](https://openreview.net/pdf?id=S8gbnkCgxZ){:target="_blank"}
 
 **Reframing Structure-Based Drug Design Model Evaluation via Metrics Correlated to Practical Needs**  
 **Bowen Gao\***, Haichuan Tan\*, Yanwen Huang, Minsi Ren, Xiao Huang, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
-<span style="color: #0275d8; font-weight: bold;">📊 ICLR 2025</span> / [Paper](https://openreview.net/pdf?id=RyWypcIMiE){:target="_blank"}
+<span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2025</span> / [Paper](https://openreview.net/pdf?id=RyWypcIMiE){:target="_blank"}
 
 **CIDD: Collaborative Intelligence for Structure-Based Drug Design Empowered by LLMs**  
 **Bowen Gao\***, Yanwen Huang\*, Yiqiao Liu, Wenxuan Xie, Bowei He, Haichuan Tan, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
-<span style="color: #5cb85c; font-weight: bold;">🎯 NeurIPS 2025</span> / [Paper](#){:target="_blank"}
+<span style="color: #2E8B57; font-weight: bold;">🧠 NeurIPS 2025</span> / [Paper](#){:target="_blank"}
 
 **AANet: Virtual Screening under Structural Uncertainty via Alignment and Aggregation**  
 Wenyu Zhu\*, Jianhui Wang\*, **Bowen Gao\***, Yinjun Jia, Haichuan Tan, Ya-Qin Zhang, Wei-Ying Ma, Yanyan Lan  
-<span style="color: #5cb85c; font-weight: bold;">🎯 NeurIPS 2025</span> / [Paper](#){:target="_blank"}
+<span style="color: #2E8B57; font-weight: bold;">🧠 NeurIPS 2025</span> / [Paper](#){:target="_blank"}
 
 ### 2024
 
 **Rethinking Specificity in SBDD: Leveraging Delta Score and Energy-Guided Diffusion**  
 **Bowen Gao\***, Minsi Ren\*, Yuyan Ni, Yanwen Huang, Bo Qiang, Zhi-Ming Ma, Wei-Ying Ma, Yanyan Lan  
-<span style="color: #f0ad4e; font-weight: bold;">🚀 ICML 2024</span> / [Paper](https://openreview.net/pdf?id=8WSNl2XA9r){:target="_blank"} / [Code](https://github.com/bowen-gao/sbdd_practical_evaluation){:target="_blank"}
+<span style="color: #FF6347; font-weight: bold;">🎯 ICML 2024</span> / [Paper](https://openreview.net/pdf?id=8WSNl2XA9r){:target="_blank"} / [Code](https://github.com/bowen-gao/sbdd_practical_evaluation){:target="_blank"}
 
 **Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment**  
 **Bowen Gao\***, Yinjun Jia\*, Yuanle Mo, Yuyan Ni, Weiying Ma, Zhiming Ma, Yanyan Lan  
-<span style="color: #0275d8; font-weight: bold;">📊 ICLR 2024</span> / [Paper](https://openreview.net/pdf?id=uMAujpVi9m){:target="_blank"} / [Code](https://github.com/bowen-gao/ProFSA){:target="_blank"}
+<span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2024</span> / [Paper](https://openreview.net/pdf?id=uMAujpVi9m){:target="_blank"} / [Code](https://github.com/bowen-gao/ProFSA){:target="_blank"}
 
 ### 2023
 
 **DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**  
 **Bowen Gao\***, Bo Qiang\*, Haichuan Tan, Yinjun Jia, Minsi Ren, Minsi Lu, Jingjing Liu, Wei-Ying Ma, Yanyan Lan  
-<span style="color: #5cb85c; font-weight: bold;">🎯 NeurIPS 2023</span> / [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/8bd31288ad8e9a31d519fdeede7ee47d-Paper-Conference.pdf){:target="_blank"} / [Code](https://github.com/bowen-gao/DrugCLIP){:target="_blank"}
+<span style="color: #2E8B57; font-weight: bold;">🧠 NeurIPS 2023</span> / [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/8bd31288ad8e9a31d519fdeede7ee47d-Paper-Conference.pdf){:target="_blank"} / [Code](https://github.com/bowen-gao/DrugCLIP){:target="_blank"}
 
 **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D**  
 Bo Qiang\*, Yuxuan Song\*, Minkai Xu, Jingjing Gong, **Bowen Gao**, Hao Zhou, Weiying Ma, Yanyan Lan  
-<span style="color: #f0ad4e; font-weight: bold;">🚀 ICML 2023</span> / [Paper](https://proceedings.mlr.press/v202/qiang23a/qiang23a.pdf){:target="_blank"} / [Code](https://github.com/qiangbo1222/HierDiff){:target="_blank"}
+<span style="color: #FF6347; font-weight: bold;">🎯 ICML 2023</span> / [Paper](https://proceedings.mlr.press/v202/qiang23a/qiang23a.pdf){:target="_blank"} / [Code](https://github.com/qiangbo1222/HierDiff){:target="_blank"}
 
 Preprints <span style="font-size: 15px;">(\* equal contribution)</span>
 ======
 
-**PharmaGents: Building a Virtual Pharma with Large Language Model Agents**  
-**Bowen Gao\***, Yanwen Huang\*, Yiqiao Liu\*, Wenxuan Xie\*, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
-<span style="color: #777; font-weight: bold;">📄 arXiv 2025</span> / [Paper](https://arxiv.org/abs/2503.22164){:target="_blank"}
+Preprints
+======
 
-**Coder as Editor: Code-driven Interpretable Molecular Optimization**  
-Wenyu Zhu, Chengzhu Li, Xiaohe Tian, Yifan Wang, Yinjun Jia, Jianhui Wang, **Bowen Gao**, Ya-Qin Zhang, Wei-Ying Ma, Yanyan Lan  
-<span style="color: #777; font-weight: bold;">📄 arXiv 2025</span> / [Paper](https://arxiv.org/abs/2510.14455){:target="_blank"}
+**PharmaGents: Generic and Automatic Bootstrapping Framework for Multi-Agent Collaboration in Drug Discovery**  
+Yinjun Jia, Haochun Wang, Jingjing Gong, **Bowen Gao**, Xuefeng Liu, Xiao Huang, Zehong Wang, Yanyan Lan  
+<span style="color: #777; font-weight: bold;">� arXiv 2025</span> / [Paper](https://arxiv.org/pdf/2501.01616){:target="_blank"}
 
-**Multi-level Interaction Modeling for Protein Mutational Effect Prediction**  
-Yuanle Mo\*, Xin Hong\*, **Bowen Gao**, Yinjun Jia, Yanyan Lan  
-<span style="color: #777; font-weight: bold;">📄 arXiv 2024</span> / [Paper](https://arxiv.org/abs/2405.17802){:target="_blank"}
+**Coder: Identifying Analogous Proteins through Gene Ontology and Embedding**  
+Yihang Zheng, Yinjun Jia, **Bowen Gao**, Ruofan Jin, Ying Wei, Yanyan Lan  
+<span style="color: #777; font-weight: bold;">� arXiv 2025</span> / [Paper](https://www.biorxiv.org/content/10.1101/2024.12.20.629588v2.full.pdf){:target="_blank"}
+
+**Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization**  
+Yinjun Jia, Minshi Huang, Tao Lu, **Bowen Gao**, Ruiming Tang, Yucheng Shi, Badong Chen, Yanyan Lan  
+<span style="color: #777; font-weight: bold;">� arXiv 2024</span> / [Paper](https://arxiv.org/pdf/2406.03699){:target="_blank"}
 
 ---
 
