@@ -104,7 +104,7 @@ Bo Qiang\*, Yuxuan Song\*, Minkai Xu, Jingjing Gong, **Bowen Gao**, Hao Zhou, We
 Preprints <span style="font-size: 15px;">(\* equal contribution)</span>
 ======
 
-**PharmaGents: Building a Virtual Pharma with Large Language Model Agents**  
+**PharmAgents: Building a Virtual Pharma with Large Language Model Agents**  
 **Bowen Gao\***, Yanwen Huang\*, Yiqiao Liu\*, Wenxuan Xie\*, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
 <span style="color: #777; font-weight: bold;">📑 arXiv 2025</span> / [Paper](https://arxiv.org/abs/2503.22164){:target="_blank"}
 
@@ -115,24 +115,6 @@ Wenyu Zhu, Chengzhu Li, Xiaohe Tian, Yifan Wang, Yinjun Jia, Jianhui Wang, **Bow
 **Multi-level Interaction Modeling for Protein Mutational Effect Prediction**  
 Yuanle Mo, Xin Hong, **Bowen Gao**, Yinjun Jia, Yanyan Lan  
 <span style="color: #777; font-weight: bold;">📑 arXiv 2024</span> / [Paper](https://arxiv.org/abs/2405.17802){:target="_blank"}
-
-Preprints <span style="font-size: 15px;">(\* equal contribution)</span>
-======
-
-Preprints
-======
-
-**PharmaGents: Generic and Automatic Bootstrapping Framework for Multi-Agent Collaboration in Drug Discovery**  
-Yinjun Jia, Haochun Wang, Jingjing Gong, **Bowen Gao**, Xuefeng Liu, Xiao Huang, Zehong Wang, Yanyan Lan  
-<span style="color: #777; font-weight: bold;">� arXiv 2025</span> / [Paper](https://arxiv.org/pdf/2501.01616){:target="_blank"}
-
-**Coder: Identifying Analogous Proteins through Gene Ontology and Embedding**  
-Yihang Zheng, Yinjun Jia, **Bowen Gao**, Ruofan Jin, Ying Wei, Yanyan Lan  
-<span style="color: #777; font-weight: bold;">� arXiv 2025</span> / [Paper](https://www.biorxiv.org/content/10.1101/2024.12.20.629588v2.full.pdf){:target="_blank"}
-
-**Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization**  
-Yinjun Jia, Minshi Huang, Tao Lu, **Bowen Gao**, Ruiming Tang, Yucheng Shi, Badong Chen, Yanyan Lan  
-<span style="color: #777; font-weight: bold;">� arXiv 2024</span> / [Paper](https://arxiv.org/pdf/2406.03699){:target="_blank"}
 
 ---
 
@@ -152,7 +134,7 @@ Academic Services
 ---
 
 Contact
-======
+======---
 
 * **Email:** billgao0111@gmail.com
 * **Location:** Beijing, China
