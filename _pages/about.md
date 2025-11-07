@@ -11,27 +11,6 @@ redirect_from:
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-I am a Computer Science PhD student at Tsinghua University <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsinghua_University_Logo.svg/300px-Tsinghua_University_Logo.svg.png" width="20" height="20">, supervised by Professor [Ya-Qin Zhang](https://scholar.google.com/citations?user=mDOMfxIAAAAJ&hl=en) and Professor [Yanyan Lan](https://yanyanlan.com/). My research focuses on AI for Drug Discovery, particularly deep learning models for small molecule and protein representation and generation. 
-
-Before beginning my PhD, I worked as a Research Engineer at [Tsinghua AIR](https://air.tsinghua.edu.cn/en/) from September 2022 to August 2024. Prior to that, I worked as a Machine Learning Engineer at [Bytedance](https://www.bytedance.com/en) from June 2021 to September 2022, where I specialized in Recommendation Systems.
-
-I hold a Bachelor’s degree in Computer Engineering from the [University of Toronto](https://www.ece.utoronto.ca/) <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/440px-Utoronto_coa.svg.png" width="20" height="20">(2019) and a Master’s degree in Electrical Engineering from [Caltech](https://www.caltech.edu/) <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Seal_of_the_California_Institute_of_Technology.svg/300px-Seal_of_the_California_Institute_of_Technology.svg.png" width="20" height="20">(2021).
-
----
-permalink: /
-title: "About me"
-excerpt:
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
-{% endif %}
-
-## Biography
-
 I am a Computer Science PhD student at Tsinghua University <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsinghua_University_Logo.svg/300px-Tsinghua_University_Logo.svg.png" width="20" height="20">, supervised by Professor [Ya-Qin Zhang](https://scholar.google.com/citations?user=mDOMfxIAAAAJ&hl=en) and Professor [Yanyan Lan](https://yanyanlan.com/). 
 
 My research focuses on **AI for Drug Discovery (AIDD)**, with a particular emphasis on developing and applying deep learning models for the representation and generation of small molecules and proteins. I aim to build **data-centric** methods to address the data scarcity problem in the AIDD domain.
@@ -49,7 +28,6 @@ I hold a Bachelor's degree in Computer Science from the [University of Toronto](
 <span style="color: red; font-size: 20px; font-weight: bold;">💊 [Molecule Virtual Screening Platform](https://drugclip.com/){:target="_blank"}</span>
 
 ---
-
 
 Education
 ======
@@ -77,46 +55,6 @@ Work Experience
 * **Autonomous Driving Algorithm Intern** (June 2020 - September 2020)
   * Uber Advanced Technology Group (ATG)
   * Focus: 3D Object Detection and BEV Perception for Autonomous Vehicles
-
-
-Preprints <span style="font-size: 15px;">(\* equal contribution)</span>
-======
-
-* **[Pushing the Boundaries of Structure-Based Drug Design through Collaboration with Large Language Models](https://arxiv.org/abs/2503.01376){:target="_blank"}**  
-**Bowen Gao\***, Yanwen Huang\*, Yiqiao Liu, Wenxuan Xie, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
-*arXiv preprint arXiv:2503.01376*, 2025
-
-* **[Deep Contrastive Learning Enables Genome-wide Virtual Screening](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf){:target="_blank"}**  
-Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, Jiekang Tian, Weiying Ma, Yaqin Zhang, Chuangye Yan, Wei Zhang, Yanyan Lan  
-*bioRxiv preprint*, 2024
-
-* **[Multi-level Interaction Modeling for Protein Mutational Effect Prediction](https://arxiv.org/abs/2405.17802){:target="_blank"}**  
-Yuanle Mo\*, Xin Hong\*, **Bowen Gao**, Yinjun Jia, Yanyan Lan  
-*arXiv preprint arXiv:2405.17802*, 2024
-
----
-
-## Academic Services
-
-**Conference Reviewer:**
-* International Conference on Learning Representation (ICLR) 2025, 2026
-* Neural Information Processing Systems (NeurIPS) 2024, 2025
-* International Conference on Machine Learning (ICML) 2025
-* International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
-* Annual Conference on Artificial Intelligence (AAAI) 2026
-
-**Journal Reviewer:**
-* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-
----
-
-## Contact
-
-* **Email:** billgao0111@gmail.com
-* **Location:** Beijing, China
-* **LinkedIn:** [linkedin.com/in/bgao](https://www.linkedin.com/in/bgao)
-* **Google Scholar:** [Bowen Gao](https://scholar.google.com/citations?user=cTGzVe8AAAAJ&hl=en)
-* **GitHub:** [bowen-gao](https://github.com/bowen-gao)
 
 Publications <span style="font-size: 15px;">(\* equal contribution)</span>
 ======
@@ -155,8 +93,43 @@ Minsi Ren, **Bowen Gao**, Bo Qiang, Yanyan Lan
 Bo Qiang\*, Yuxuan Song\*, Minkai Xu, Jingjing Gong, **Bowen Gao**, Hao Zhou, Weiying Ma, Yanyan Lan  
 *International Conference on Machine Learning* (**ICML**) 2023
 
+Preprints <span style="font-size: 15px;">(\* equal contribution)</span>
+======
 
+* **[Pushing the Boundaries of Structure-Based Drug Design through Collaboration with Large Language Models](https://arxiv.org/abs/2503.01376){:target="_blank"}**  
+**Bowen Gao\***, Yanwen Huang\*, Yiqiao Liu, Wenxuan Xie, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
+*arXiv preprint arXiv:2503.01376*, 2025
 
+* **[Deep Contrastive Learning Enables Genome-wide Virtual Screening](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf){:target="_blank"}**  
+Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, Jiekang Tian, Weiying Ma, Yaqin Zhang, Chuangye Yan, Wei Zhang, Yanyan Lan  
+*bioRxiv preprint*, 2024
 
+* **[Multi-level Interaction Modeling for Protein Mutational Effect Prediction](https://arxiv.org/abs/2405.17802){:target="_blank"}**  
+Yuanle Mo\*, Xin Hong\*, **Bowen Gao**, Yinjun Jia, Yanyan Lan  
+*arXiv preprint arXiv:2405.17802*, 2024
 
+---
 
+Academic Services
+======
+
+**Conference Reviewer:**
+* International Conference on Learning Representation (ICLR) 2025, 2026
+* Neural Information Processing Systems (NeurIPS) 2024, 2025
+* International Conference on Machine Learning (ICML) 2025
+* International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
+* Annual Conference on Artificial Intelligence (AAAI) 2026
+
+**Journal Reviewer:**
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+
+---
+
+Contact
+======
+
+* **Email:** billgao0111@gmail.com
+* **Location:** Beijing, China
+* **LinkedIn:** [linkedin.com/in/bgao](https://www.linkedin.com/in/bgao)
+* **Google Scholar:** [Bowen Gao](https://scholar.google.com/citations?user=cTGzVe8AAAAJ&hl=en)
+* **GitHub:** [bowen-gao](https://github.com/bowen-gao)
