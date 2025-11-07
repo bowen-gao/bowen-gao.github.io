@@ -59,19 +59,11 @@ Work Experience
 Publications <span style="font-size: 15px;">(\* equal contribution)</span>
 ======
 
-### 2025
+<h3 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px;">📅 2025</h3>
 
 **Deep Contrastive Learning Enables Genome-wide Virtual Screening**  
 Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Jiqing Zheng\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, et al.  
 <span style="color: #DC143C; font-weight: bold;">⭐ Science 2025 (Accepted)</span> / [Paper](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf){:target="_blank"}
-
-**SIU: A Million-Scale Structural Small Molecule-Protein Interaction Dataset for Unbiased Bioactivity Prediction**  
-Yanwen Huang\*, **Bowen Gao\***, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
-<span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2025</span> / [Paper](https://openreview.net/pdf?id=S8gbnkCgxZ){:target="_blank"}
-
-**Reframing Structure-Based Drug Design Model Evaluation via Metrics Correlated to Practical Needs**  
-**Bowen Gao\***, Haichuan Tan\*, Yanwen Huang, Minsi Ren, Xiao Huang, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
-<span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2025</span> / [Paper](https://openreview.net/pdf?id=RyWypcIMiE){:target="_blank"}
 
 **CIDD: Collaborative Intelligence for Structure-Based Drug Design Empowered by LLMs**  
 **Bowen Gao\***, Yanwen Huang\*, Yiqiao Liu, Wenxuan Xie, Bowei He, Haichuan Tan, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
@@ -81,7 +73,15 @@ Yanwen Huang\*, **Bowen Gao\***, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhan
 Wenyu Zhu\*, Jianhui Wang\*, **Bowen Gao\***, Yinjun Jia, Haichuan Tan, Ya-Qin Zhang, Wei-Ying Ma, Yanyan Lan  
 <span style="color: #2E8B57; font-weight: bold;">🧠 NeurIPS 2025</span> / [Paper](#){:target="_blank"}
 
-### 2024
+**SIU: A Million-Scale Structural Small Molecule-Protein Interaction Dataset for Unbiased Bioactivity Prediction**  
+Yanwen Huang\*, **Bowen Gao\***, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
+<span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2025</span> / [Paper](https://openreview.net/pdf?id=S8gbnkCgxZ){:target="_blank"}
+
+**Reframing Structure-Based Drug Design Model Evaluation via Metrics Correlated to Practical Needs**  
+**Bowen Gao\***, Haichuan Tan\*, Yanwen Huang, Minsi Ren, Xiao Huang, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
+<span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2025</span> / [Paper](https://openreview.net/pdf?id=RyWypcIMiE){:target="_blank"}
+
+<h3 style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px;">📅 2024</h3>
 
 **Rethinking Specificity in SBDD: Leveraging Delta Score and Energy-Guided Diffusion**  
 **Bowen Gao\***, Minsi Ren\*, Yuyan Ni, Yanwen Huang, Bo Qiang, Zhi-Ming Ma, Wei-Ying Ma, Yanyan Lan  
@@ -91,7 +91,7 @@ Wenyu Zhu\*, Jianhui Wang\*, **Bowen Gao\***, Yinjun Jia, Haichuan Tan, Ya-Qin Z
 **Bowen Gao\***, Yinjun Jia\*, Yuanle Mo, Yuyan Ni, Weiying Ma, Zhiming Ma, Yanyan Lan  
 <span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2024</span> / [Paper](https://openreview.net/pdf?id=uMAujpVi9m){:target="_blank"} / [Code](https://github.com/bowen-gao/ProFSA){:target="_blank"}
 
-### 2023
+<h3 style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px;">📅 2023</h3>
 
 **DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**  
 **Bowen Gao\***, Bo Qiang\*, Haichuan Tan, Yinjun Jia, Minsi Ren, Minsi Lu, Jingjing Liu, Wei-Ying Ma, Yanyan Lan  
