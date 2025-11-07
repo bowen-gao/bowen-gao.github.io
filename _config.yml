@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bowen Gao / Homepage"
+title                    : "Bowen Gao | AI for Drug Discovery Researcher"
 title_separator          : "-"
 name                     : &name "Bowen Gao"
-description              : &description "Hello World"
+description              : &description "Ph.D. Student at Tsinghua University | AI for Drug Discovery | Deep Learning for Molecular Design"
 url                      : https://bowen-gao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bowen-gao/bowen-gao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Bowen Gao"
   avatar           : "profile.jpeg"
-  bio              : "Research Engineer"
-  location         : "Beijing"
-  employer         :
+  bio              : "Ph.D. Student @ Tsinghua University | AI for Drug Discovery"
+  location         : "Beijing, China"
+  employer         : "Tsinghua University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cTGzVe8AAAAJ&hl=en"
-  email            :
+  email            : "billgao0111@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

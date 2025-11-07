@@ -1,0 +1,191 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.5in,top=0.5in,right=0.5in,bottom=0.5in]{geometry} % Document margins
+\usepackage{bibentry}
+\usepackage{natbib}
+\usepackage{enumitem} % Better list control
+\usepackage{xcolor} % For colors
+
+% Define color scheme
+\definecolor{darkblue}{RGB}{0,51,102}
+\definecolor{mediumgray}{RGB}{80,80,80}
+
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\newcommand{\highlightAuthor}[1]{\textbf{#1}}
+\newcommand{\ec}{\textsuperscript{*}}
+
+% Update hyperref colors
+\hypersetup{
+    colorlinks=true,
+    linkcolor=darkblue,
+    filecolor=darkblue,      
+    urlcolor=darkblue,
+}
+
+\name{Bowen Gao} % Your name
+% You can merge both of these into a single line, if you do not have a website.
+\address{Beijing, China \\ +86 13810620833} 
+\address{\href{mailto:billgao0111@gmail.com}{billgao0111@gmail.com} \\ \href{https://www.linkedin.com/in/bgao}{LinkedIn} \\ \href{https://scholar.google.com/citations?user=cTGzVe8AAAAJ&hl=en}{Google Scholar}}
+
+\setlength{\bibsep}{0.0pt plus 0.3ex}
+\setlength{\bibhang}{0pt}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\nobibliography{cv}
+\bibliographystyle{unsrt}
+
+\begin{rSection}{Education}
+
+{\bf Tsinghua University} \hfill {\bf Beijing, China} 
+\\
+Ph.D. in Computer Science and Technology \hfill {\em August 2024 - Present} 
+ \begin{itemize}[leftmargin=1.5em, itemsep=2pt, parsep=0pt, topsep=3pt]
+     \item Supervised by Professor \textbf{Ya-Qin Zhang} and Professor \textbf{Yanyan Lan}
+ \end{itemize}
+
+{\bf California Institute of Technology} \hfill {\bf Pasadena, U.S.}
+\\
+Master of Electrical Engineering \hfill {\em October 2019 - June 2021}
+ \begin{itemize}[leftmargin=1.5em, itemsep=2pt, parsep=0pt, topsep=3pt]
+     \item GPA: 4.2 / 4.3
+     \item Advised by Professor Yaser Abu-Mostafa and Professor Yisong Yue
+ \end{itemize}
+
+{\bf University of Toronto} \hfill {\bf Toronto, Canada}
+\\
+Bachelor of Computer Science \hfill {\em September 2014 - June 2019}
+ \begin{itemize}[leftmargin=1.5em, itemsep=2pt, parsep=0pt, topsep=3pt]
+     \item GPA: 3.85 / 4.0
+     \item Dean's Honour List for all academic years
+     \item Graduated with Highest Honors
+ \end{itemize}
+
+\end{rSection}
+
+
+\begin{rSection}{Research Interest}
+
+My research focuses on leveraging artificial intelligence for drug discovery (AIDD), with a particular emphasis on developing and applying deep learning models for the representation and generation of small molecules and proteins. I aim to build \textbf{data-centric} methods to address the data scarcity problem in the AIDD domain.
+    
+\end{rSection}
+
+\vspace{-0.5em} % Reduce spacing before next section
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Employments}
+
+\textbf{Institute for AI Industry Research, Tsinghua University (AIR)} \hfill {\em September 2022 - August 2024}
+\\
+Full Time Research Engineer
+
+\vspace{0.5em}
+
+\textbf{Applied Machine Learning (AML) at ByteDance} \hfill {\em July 2021 - September 2022}
+\\
+Full Time Machine Learning Engineer
+
+\vspace{0.5em}
+
+\textbf{Uber ATG} \hfill {\em June 2020 - September 2020}
+\\
+Autonomous Driving Algorithm Intern
+
+\end{rSection}
+
+\begin{rSection}{Publications}
+
+\begin{enumerate}[leftmargin=2em, itemsep=3pt, parsep=0pt, topsep=3pt]
+    \item \bibentry{jia2024deep}.
+    \item \bibentry{gao2025cidd}.
+    \item \bibentry{zhu2025aanet}.
+    \item \bibentry{huang2024siu}.
+    \item \bibentry{gao2025reframing}.
+    \item \bibentry{gaorethinking}.
+    \item \bibentry{gaoself}.
+    \item \bibentry{gao2024drugclip}.
+    \item \bibentry{qiang2023coarse}. 
+\end{enumerate}
+
+\end{rSection}
+
+\begin{rSection}{Preprints}
+
+\begin{enumerate}[leftmargin=2em, itemsep=3pt, parsep=0pt, topsep=3pt]
+    \item \bibentry{zhu2025coder}
+    \item \bibentry{gao2025pharmagents}
+    \item \bibentry{mo2024multi}.
+    
+    %\item \bibentry{Gao2020.11.17.387860}.
+\end{enumerate}
+
+\end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+%	INTERN EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+% \begin{rSection}{Internship Experience}
+
+% % \textbf{Research Intern} \hfill June 2020 - Nov 2020 \\
+% % Wang Lab@University of Washington
+% %  \begin{itemize}
+% %     \itemsep -3pt {} 
+% %      \item Collaborated with Dr. Sheng Wang on using adversarial learning for tumor stratification.
+% %      \item Employed a Generative Adversarial Network (GAN) to train a model capable of aligning different cancer types, followed by clustering in the aligned space instead of the original space; utilized consensus clustering for robust results.
+% %      \item Outperformed baseline in tumor stratification for 8 out of 10 cancer types with significant log-rank test p-values (p-value $<$ 0.01); achieved an AUROC of 0.74 for cancer gene identification, compared to 0.53 for the baseline.
+% %      \item Served as a major contributor in code development, experimentation, and paper writing; submitted as first author to RECOMB 2021 with the title: "cancerAlign: Stratifying tumors by unsupervised alignment across cancer types".
+% %  \end{itemize}
+
+% \textbf{Machine Learning Engineer Intern} \hfill June 2020 - Sep 2020\\
+% Uber ATG
+%  % \begin{itemize}
+%  %    \itemsep -3pt {} 
+%  %     \item Worked with the Perception team at Uber Advanced Technology Group.
+%  %     \item Integrated a new birds-eye-view (BEV) detection head into the existing joint detection and segmentation model.
+%  %     \item Developed a feature transformer to resample image feature maps for creating BEV features, allowing 3D detection loss to operate directly on the BEV feature map.
+%  %     \item Employed focal loss for class loss and Huber loss for box offset loss, while incorporating hourglass layers to enhance the model.
+%  %     \item Achieved over 94\% average precision for short-range (0-25m) pedestrian detection in 3D.
+%  % \end{itemize}
+
+% \textbf{C/C++ Compiler Developer Intern} \hfill May 2017 - June 2018\\
+% IBM Canada
+%  % \begin{itemize}
+%  %    \itemsep -3pt {} 
+%  %     \item Implemented new features for C++ compiler in accordance with C++ Standards.
+%  %     \item Addressed and resolved various compiler front-end defects, focusing on command-line compiler options.
+%  %     \item Refactored code to manage compiler behavior across different operating systems, including AIX and zOS.
+%  % \end{itemize}
+
+% \end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS SECTION
+%----------------------------------------------------------------------------------------
+
+
+\begin{rSection}{Academic Services}
+
+ \begin{itemize}[leftmargin=1.5em, itemsep=2pt, parsep=0pt, topsep=3pt]
+    \item Reviewer for International Conference on Learning Representation (ICLR) 2025, 2026
+    \item Reviewer for Annual Conference on Artificial Intelligence (AAAI) 2026
+    \item Reviewer for Neural Information Processing Systems (NeurIPS) 2024, 2025
+    \item Reviewer for International Conference on Machine Learning (ICML) 2025
+    \item Reviewer for International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
+    \item Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+ \end{itemize}
+
+\end{rSection}
+
+
+\end{document}
