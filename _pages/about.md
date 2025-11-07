@@ -61,52 +61,52 @@ Publications <span style="font-size: 15px;">(\* equal contribution)</span>
 
 ### 2025
 
-* **[Redefining the Task of Bioactivity Prediction](https://openreview.net/pdf?id=S8gbnkCgxZ){:target="_blank"}**  
+**Redefining the Task of Bioactivity Prediction**  
 Yanwen Huang\*, **Bowen Gao\***, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
-*International Conference on Learning Representations* (**ICLR**) 2025
+**[ICLR 2025](https://iclr.cc/Conferences/2025){:target="_blank"}** / [Paper](https://openreview.net/pdf?id=S8gbnkCgxZ){:target="_blank"}
 
-* **[Reframing Structure-Based Drug Design Model Evaluation via Metrics Correlated to Practical Needs](https://openreview.net/pdf?id=RyWypcIMiE){:target="_blank"}**  
+**Reframing Structure-Based Drug Design Model Evaluation via Metrics Correlated to Practical Needs**  
 **Bowen Gao\***, Haichuan Tan\*, Yanwen Huang, Minsi Ren, Xiao Huang, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
-*International Conference on Learning Representations* (**ICLR**) 2025
+**[ICLR 2025](https://iclr.cc/Conferences/2025){:target="_blank"}** / [Paper](https://openreview.net/pdf?id=RyWypcIMiE){:target="_blank"}
 
 ### 2024
 
-* **[Rethinking Specificity in SBDD: Leveraging Delta Score and Energy-Guided Diffusion](https://openreview.net/pdf?id=8WSNl2XA9r){:target="_blank"}**  
+**Rethinking Specificity in SBDD: Leveraging Delta Score and Energy-Guided Diffusion**  
 **Bowen Gao\***, Minsi Ren\*, Yuyan Ni, Yanwen Huang, Bo Qiang, Zhi-Ming Ma, Wei-Ying Ma, Yanyan Lan  
-*International Conference on Machine Learning* (**ICML**) 2024
+**[ICML 2024](https://icml.cc/Conferences/2024){:target="_blank"}** / [Paper](https://openreview.net/pdf?id=8WSNl2XA9r){:target="_blank"} / [Code](https://github.com/bowen-gao/sbdd_practical_evaluation){:target="_blank"}
 
-* **[Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment](https://openreview.net/pdf?id=uMAujpVi9m){:target="_blank"}**  
+**Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment**  
 **Bowen Gao\***, Yinjun Jia\*, Yuanle Mo, Yuyan Ni, Weiying Ma, Zhiming Ma, Yanyan Lan  
-*International Conference on Learning Representations* (**ICLR**) 2024
+**[ICLR 2024](https://iclr.cc/Conferences/2024){:target="_blank"}** / [Paper](https://openreview.net/pdf?id=uMAujpVi9m){:target="_blank"} / [Code](https://github.com/bowen-gao/ProFSA){:target="_blank"}
 
 ### 2023
 
-* **[DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening](https://proceedings.neurips.cc/paper_files/paper/2023/file/8bd31288ad8e9a31d519fdeede7ee47d-Paper-Conference.pdf){:target="_blank"}**  
+**DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**  
 **Bowen Gao\***, Bo Qiang\*, Haichuan Tan, Yinjun Jia, Minsi Ren, Minsi Lu, Jingjing Liu, Wei-Ying Ma, Yanyan Lan  
-*Neural Information Processing Systems* (**NeurIPS**) 2023
+**[NeurIPS 2023](https://nips.cc/Conferences/2023){:target="_blank"}** / [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/8bd31288ad8e9a31d519fdeede7ee47d-Paper-Conference.pdf){:target="_blank"} / [Code](https://github.com/bowen-gao/DrugCLIP){:target="_blank"}
 
-* **[Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods](https://openreview.net/pdf?id=iO59l1LFvJ){:target="_blank"}**  
+**Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods**  
 Minsi Ren, **Bowen Gao**, Bo Qiang, Yanyan Lan  
-*GenBio Workshop, NeurIPS* 2023
+**[NeurIPS 2023](https://nips.cc/Conferences/2023){:target="_blank"}** Workshop / [Paper](https://openreview.net/pdf?id=iO59l1LFvJ){:target="_blank"}
 
-* **[Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D](https://proceedings.mlr.press/v202/qiang23a/qiang23a.pdf){:target="_blank"}**  
+**Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D**  
 Bo Qiang\*, Yuxuan Song\*, Minkai Xu, Jingjing Gong, **Bowen Gao**, Hao Zhou, Weiying Ma, Yanyan Lan  
-*International Conference on Machine Learning* (**ICML**) 2023
+**[ICML 2023](https://icml.cc/Conferences/2023){:target="_blank"}** / [Paper](https://proceedings.mlr.press/v202/qiang23a/qiang23a.pdf){:target="_blank"} / [Code](https://github.com/qiangbo1222/HierDiff){:target="_blank"}
 
 Preprints <span style="font-size: 15px;">(\* equal contribution)</span>
 ======
 
-* **[Pushing the Boundaries of Structure-Based Drug Design through Collaboration with Large Language Models](https://arxiv.org/abs/2503.01376){:target="_blank"}**  
+**Pushing the Boundaries of Structure-Based Drug Design through Collaboration with Large Language Models**  
 **Bowen Gao\***, Yanwen Huang\*, Yiqiao Liu, Wenxuan Xie, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
-*arXiv preprint arXiv:2503.01376*, 2025
+**arXiv 2025** / [Paper](https://arxiv.org/abs/2503.01376){:target="_blank"}
 
-* **[Deep Contrastive Learning Enables Genome-wide Virtual Screening](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf){:target="_blank"}**  
+**Deep Contrastive Learning Enables Genome-wide Virtual Screening**  
 Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, Jiekang Tian, Weiying Ma, Yaqin Zhang, Chuangye Yan, Wei Zhang, Yanyan Lan  
-*bioRxiv preprint*, 2024
+**bioRxiv 2024** / [Paper](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf){:target="_blank"}
 
-* **[Multi-level Interaction Modeling for Protein Mutational Effect Prediction](https://arxiv.org/abs/2405.17802){:target="_blank"}**  
+**Multi-level Interaction Modeling for Protein Mutational Effect Prediction**  
 Yuanle Mo\*, Xin Hong\*, **Bowen Gao**, Yinjun Jia, Yanyan Lan  
-*arXiv preprint arXiv:2405.17802*, 2024
+**arXiv 2024** / [Paper](https://arxiv.org/abs/2405.17802){:target="_blank"}
 
 ---
 
