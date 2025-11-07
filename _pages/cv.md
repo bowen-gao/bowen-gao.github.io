@@ -9,11 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF Resume](/files/resume.pdf){: .btn .btn--info}
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="/files/resume.pdf" class="btn btn--info" download>📥 Download PDF</a>
+</div>
+
+<div style="width: 100%; height: 1000px; border: 1px solid #ccc; margin-top: 20px;">
+  <embed src="/files/resume.pdf" type="application/pdf" width="100%" height="100%" />
+</div>
+
+<!-- Fallback for browsers that don't support embed -->
+<noscript>
+  <p style="text-align: center;">
+    Your browser does not support PDF embedding. 
+    <a href="/files/resume.pdf" download>Click here to download the PDF</a>
+  </p>
+</noscript>
 
 ---
 
-## Education
+## Education (Text Version)
 
 **Tsinghua University** | Beijing, China  
 *Ph.D. in Computer Science and Technology* | August 2024 - Present

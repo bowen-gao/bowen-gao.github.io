@@ -104,6 +104,21 @@ Bo Qiang\*, Yuxuan Song\*, Minkai Xu, Jingjing Gong, **Bowen Gao**, Hao Zhou, We
 Preprints <span style="font-size: 15px;">(\* equal contribution)</span>
 ======
 
+**PharmaGents: Building a Virtual Pharma with Large Language Model Agents**  
+**Bowen Gao\***, Yanwen Huang\*, Yiqiao Liu\*, Wenxuan Xie\*, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
+<span style="color: #777; font-weight: bold;">📑 arXiv 2025</span> / [Paper](https://arxiv.org/abs/2503.22164){:target="_blank"}
+
+**Coder as Editor: Code-driven Interpretable Molecular Optimization**  
+Wenyu Zhu, Chengzhu Li, Xiaohe Tian, Yifan Wang, Yinjun Jia, Jianhui Wang, **Bowen Gao**, Ya-Qin Zhang, Wei-Ying Ma, Yanyan Lan  
+<span style="color: #777; font-weight: bold;">📑 arXiv 2025</span> / [Paper](https://arxiv.org/abs/2510.14455){:target="_blank"}
+
+**Multi-level Interaction Modeling for Protein Mutational Effect Prediction**  
+Yuanle Mo, Xin Hong, **Bowen Gao**, Yinjun Jia, Yanyan Lan  
+<span style="color: #777; font-weight: bold;">📑 arXiv 2024</span> / [Paper](https://arxiv.org/abs/2405.17802){:target="_blank"}
+
+Preprints <span style="font-size: 15px;">(\* equal contribution)</span>
+======
+
 Preprints
 ======
 
