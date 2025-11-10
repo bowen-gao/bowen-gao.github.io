@@ -9,6 +9,21 @@ Yinjun jia\ec, \textbf{Bowen Gao\ec}, Jiaxin Tan\ec, Jiqing Zheng\ec, Xin
 \newblock {\em \textbf{Science}}, \textbf{2025}.
 \newblock \textbf{Accepted}.
 
+\bibitem{he2026drug}
+Bowei He, \textbf{Bowen Gao}, Yankai Chen, Yanyan Lan, Chen Ma, Philip~S. Yu,
+  Ya-Qin Zhang, and Wei-Ying Ma.
+\newblock \textbf{Drug: Bridging Protein Sequence and 3D Structure in
+  Contrastive Representation Learning for Virtual Screening}.
+\newblock In {\em \textbf{AAAI Conference on Artificial Intelligence (AAAI)}},
+  \textbf{2026}.
+
+\bibitem{wang2026hyperbolic}
+Jianhui Wang*, Wenyu Zhu*, \textbf{Bowen Gao*}, Xin Hong, Ya-Qin Zhang,
+  Wei-Ying Ma, and Yanyan Lan.
+\newblock \textbf{Learning Protein–Ligand Binding in Hyperbolic Space}.
+\newblock In {\em \textbf{AAAI Conference on Artificial Intelligence (AAAI)}},
+  \textbf{2026}.
+
 \bibitem{gao2025cidd}
 \textbf{Bowen Gao\ec}, Yanwen Huang\ec, Yiqiao Liu, Wenxuan Xie, Bowei He,
   Haichuan Tan, Wei-Ying Ma, Ya-Qin Zhang, and Yanyan Lan.

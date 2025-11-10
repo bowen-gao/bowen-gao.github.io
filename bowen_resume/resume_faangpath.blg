@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: resume_faangpath.aux
 The style file: unsrt.bst
 Database file #1: cv.bib
-You've used 12 entries,
+You've used 14 entries,
             1791 wiz_defined-function locations,
-            496 strings with 6875 characters,
-and the built_in function-call counts, 3012 in all, are:
-= -- 146
-> -- 318
+            504 strings with 7402 characters,
+and the built_in function-call counts, 3513 in all, are:
+= -- 170
+> -- 367
 < -- 0
-+ -- 110
-- -- 98
-* -- 229
-:= -- 559
-add.period$ -- 37
-call.type$ -- 12
-change.case$ -- 12
++ -- 127
+- -- 113
+* -- 265
+:= -- 646
+add.period$ -- 43
+call.type$ -- 14
+change.case$ -- 14
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 128
-empty$ -- 257
-format.name$ -- 98
-if$ -- 623
+cite$ -- 14
+duplicate$ -- 152
+empty$ -- 307
+format.name$ -- 113
+if$ -- 731
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 12
-newline$ -- 64
-num.names$ -- 12
-pop$ -- 67
+int.to.str$ -- 14
+missing$ -- 14
+newline$ -- 74
+num.names$ -- 14
+pop$ -- 81
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 35
+skip$ -- 41
 stack$ -- 0
 substring$ -- 0
-swap$ -- 20
+swap$ -- 24
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 12
-width$ -- 14
-write$ -- 124
+while$ -- 14
+width$ -- 16
+write$ -- 144
