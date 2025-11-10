@@ -59,7 +59,7 @@ Work Experience
 Publications <span style="font-size: 15px;">(\* equal contribution)</span>
 ======
 
-<h3 style="background: linear-gradient(135deg, #5B247A 0%, #1BCEDF 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📅 2026</h3>
+<h3 style="background: linear-gradient(135deg, #6A1B9A 0%, #8E24AA 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📅 2026</h3>
 
 **Drug: Bridging Protein Sequence and 3D Structure in Contrastive Representation Learning for Virtual Screening**  
 Bowei He, **Bowen Gao**, Yankai Chen, Yanyan Lan, Chen Ma, Philip S. Yu, Ya-Qin Zhang, Wei-Ying Ma  
