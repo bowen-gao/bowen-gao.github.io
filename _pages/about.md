@@ -91,7 +91,7 @@ Yanwen Huang\*, **Bowen Gao\***, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhan
 **Bowen Gao\***, Haichuan Tan\*, Yanwen Huang, Minsi Ren, Xiao Huang, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
 <span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2025</span> / [Paper](https://openreview.net/pdf?id=RyWypcIMiE){:target="_blank"}
 
-<h3 style="background: linear-gradient(135deg, #7B1FA2 0%, #9C27B0 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📅 2024</h3>
+<h3 style="background: linear-gradient(135deg, #6A1B9A 0%, #8E24AA 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📅 2024</h3>
 
 **Rethinking Specificity in SBDD: Leveraging Delta Score and Energy-Guided Diffusion**  
 **Bowen Gao\***, Minsi Ren\*, Yuyan Ni, Yanwen Huang, Bo Qiang, Zhi-Ming Ma, Wei-Ying Ma, Yanyan Lan  
@@ -101,7 +101,7 @@ Yanwen Huang\*, **Bowen Gao\***, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhan
 **Bowen Gao\***, Yinjun Jia\*, Yuanle Mo, Yuyan Ni, Weiying Ma, Zhiming Ma, Yanyan Lan  
 <span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2024</span> / [Paper](https://openreview.net/pdf?id=uMAujpVi9m){:target="_blank"} / [Code](https://github.com/bowen-gao/ProFSA){:target="_blank"}
 
-<h3 style="background: linear-gradient(135deg, #8E24AA 0%, #AB47BC 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📅 2023</h3>
+<h3 style="background: linear-gradient(135deg, #6A1B9A 0%, #8E24AA 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📅 2023</h3>
 
 **DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**  
 **Bowen Gao\***, Bo Qiang\*, Haichuan Tan, Yinjun Jia, Minsi Ren, Minsi Lu, Jingjing Liu, Wei-Ying Ma, Yanyan Lan  
