@@ -29,33 +29,6 @@ I hold a Bachelor's degree in Computer Science from the [University of Toronto](
 
 ---
 
-Education
-======
-* **Ph.D. in Computer Science and Technology**, Tsinghua University, 2024 - Present
-  * Supervised by Professor Ya-Qin Zhang and Professor Yanyan Lan
-* **M.S. in Electrical Engineering**, California Institute of Technology (Caltech), 2019 - 2021
-  * GPA: 4.2/4.3
-  * Advised by Professor Yaser Abu-Mostafa and Professor Yisong Yue
-* **B.S. in Computer Science**, University of Toronto, 2014 - 2019
-  * GPA: 3.85/4.0
-  * Dean's Honour List for all academic years
-  * Graduated with Highest Honors
-
-Work Experience
-======
-
-* **Research Engineer** (September 2022 - August 2024)
-  * Institute for AI Industry Research, Tsinghua University (AIR)
-  * Focus: AI for Drug Discovery, Deep Learning for Molecular Representation and Generation
-
-* **Machine Learning Engineer** (July 2021 - September 2022)
-  * ByteDance - Applied Machine Learning (AML)
-  * Focus: Recommendation Systems and Advertising Models for Toutiao, Douyin, and TikTok
-
-* **Autonomous Driving Algorithm Intern** (June 2020 - September 2020)
-  * Uber Advanced Technology Group (ATG)
-  * Focus: 3D Object Detection and BEV Perception for Autonomous Vehicles
-
 Publications <span style="font-size: 15px;">(\* equal contribution)</span>
 ======
 
@@ -127,6 +100,33 @@ Yuanle Mo, Xin Hong, **Bowen Gao**, Yinjun Jia, Yanyan Lan
 <span style="color: #777; font-weight: bold;">📑 arXiv 2024</span> / [Paper](https://arxiv.org/abs/2405.17802){:target="_blank"}
 
 ---
+
+Education
+======
+* **Ph.D. in Computer Science and Technology**, Tsinghua University, 2024 - Present
+  * Supervised by Professor Ya-Qin Zhang and Professor Yanyan Lan
+* **M.S. in Electrical Engineering**, California Institute of Technology (Caltech), 2019 - 2021
+  * GPA: 4.2/4.3
+  * Advised by Professor Yaser Abu-Mostafa and Professor Yisong Yue
+* **B.S. in Computer Science**, University of Toronto, 2014 - 2019
+  * GPA: 3.85/4.0
+  * Dean's Honour List for all academic years
+  * Graduated with Highest Honors
+
+Work Experience
+======
+
+* **Research Engineer** (September 2022 - August 2024)
+  * Institute for AI Industry Research, Tsinghua University (AIR)
+  * Focus: AI for Drug Discovery, Deep Learning for Molecular Representation and Generation
+
+* **Machine Learning Engineer** (July 2021 - September 2022)
+  * ByteDance - Applied Machine Learning (AML)
+  * Focus: Recommendation Systems and Advertising Models for Toutiao, Douyin, and TikTok
+
+* **Autonomous Driving Algorithm Intern** (June 2020 - September 2020)
+  * Uber Advanced Technology Group (ATG)
+  * Focus: 3D Object Detection and BEV Perception for Autonomous Vehicles
 
 Academic Services
 ======
