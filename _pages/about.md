@@ -59,17 +59,17 @@ Work Experience
 Publications <span style="font-size: 15px;">(\* equal contribution)</span>
 ======
 
-<h3 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px;">📅 2026</h3>
+<h3 style="background: linear-gradient(135deg, #5B247A 0%, #1BCEDF 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📅 2026</h3>
 
 **Drug: Bridging Protein Sequence and 3D Structure in Contrastive Representation Learning for Virtual Screening**  
 Bowei He, **Bowen Gao**, Yankai Chen, Yanyan Lan, Chen Ma, Philip S. Yu, Ya-Qin Zhang, Wei-Ying Ma  
 <span style="color: #9C27B0; font-weight: bold;">🤖 AAAI 2026</span> / [Paper](#){:target="_blank"}
 
 **Learning Protein–Ligand Binding in Hyperbolic Space**  
-Jianhui Wang, Wenyu Zhu, **Bowen Gao**, Xin Hong, Ya-Qin Zhang, Wei-Ying Ma, Yanyan Lan  
+Jianhui Wang\*, Wenyu Zhu\*, **Bowen Gao\***, Xin Hong, Ya-Qin Zhang, Wei-Ying Ma, Yanyan Lan  
 <span style="color: #9C27B0; font-weight: bold;">🤖 AAAI 2026</span> / [Paper](#){:target="_blank"}
 
-<h3 style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px;">📅 2025</h3>
+<h3 style="background: linear-gradient(135deg, #6A1B9A 0%, #8E24AA 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📅 2025</h3>
 
 **Deep Contrastive Learning Enables Genome-wide Virtual Screening**  
 Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Jiqing Zheng\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, et al.  
@@ -91,7 +91,7 @@ Yanwen Huang\*, **Bowen Gao\***, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhan
 **Bowen Gao\***, Haichuan Tan\*, Yanwen Huang, Minsi Ren, Xiao Huang, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
 <span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2025</span> / [Paper](https://openreview.net/pdf?id=RyWypcIMiE){:target="_blank"}
 
-<h3 style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px;">📅 2024</h3>
+<h3 style="background: linear-gradient(135deg, #7B1FA2 0%, #9C27B0 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📅 2024</h3>
 
 **Rethinking Specificity in SBDD: Leveraging Delta Score and Energy-Guided Diffusion**  
 **Bowen Gao\***, Minsi Ren\*, Yuyan Ni, Yanwen Huang, Bo Qiang, Zhi-Ming Ma, Wei-Ying Ma, Yanyan Lan  
@@ -101,7 +101,7 @@ Yanwen Huang\*, **Bowen Gao\***, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhan
 **Bowen Gao\***, Yinjun Jia\*, Yuanle Mo, Yuyan Ni, Weiying Ma, Zhiming Ma, Yanyan Lan  
 <span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2024</span> / [Paper](https://openreview.net/pdf?id=uMAujpVi9m){:target="_blank"} / [Code](https://github.com/bowen-gao/ProFSA){:target="_blank"}
 
-<h3 style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px;">📅 2023</h3>
+<h3 style="background: linear-gradient(135deg, #8E24AA 0%, #AB47BC 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📅 2023</h3>
 
 **DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**  
 **Bowen Gao\***, Bo Qiang\*, Haichuan Tan, Yinjun Jia, Minsi Ren, Minsi Lu, Jingjing Liu, Wei-Ying Ma, Yanyan Lan  
