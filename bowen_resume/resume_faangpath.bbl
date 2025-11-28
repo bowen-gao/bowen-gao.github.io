@@ -1,18 +1,9 @@
 \begin{thebibliography}{10}
 
-\bibitem{jia2024deep}
-Yinjun jia\ec, \textbf{Bowen Gao\ec}, Jiaxin Tan\ec, Jiqing Zheng\ec, Xin
-  Hong\ec, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei
-  Yuan, et~al.
-\newblock \textbf{Deep contrastive learning enables genome-wide virtual
-  screening}.
-\newblock {\em \textbf{Science}}, \textbf{2025}.
-\newblock \textbf{Accepted}.
-
-\bibitem{he2026drug}
+\bibitem{he2026s}
 Bowei He, \textbf{Bowen Gao}, Yankai Chen, Yanyan Lan, Chen Ma, Philip~S. Yu,
   Ya-Qin Zhang, and Wei-Ying Ma.
-\newblock \textbf{Drug: Bridging Protein Sequence and 3D Structure in
+\newblock \textbf{S$^2$Drug: Bridging Protein Sequence and 3D Structure in
   Contrastive Representation Learning for Virtual Screening}.
 \newblock In {\em \textbf{AAAI Conference on Artificial Intelligence (AAAI)}},
   \textbf{2026}.
@@ -40,14 +31,6 @@ Wenyu Zhu\ec, Jianhui Wang\ec, \textbf{Bowen Gao\ec}, Yinjun Jia, Haichuan Tan,
 \newblock In {\em \textbf{Advances in Neural Information Processing Systems
   (NeurIPS)}}, \textbf{2025}.
 
-\bibitem{huang2024siu}
-Yanwen Huang\ec, \textbf{Bowen Gao}\ec, Yinjun Jia, Hongbo Ma, Wei-Ying Ma,
-  Ya-Qin Zhang, and Yanyan Lan.
-\newblock \textbf{SIU: A Million-Scale Structural Small Molecule-Protein
-  Interaction Dataset for Unbiased Bioactivity Prediction}.
-\newblock In {\em \textbf{International Conference on Learning Representations
-  (ICLR)}}, \textbf{2025}.
-
 \bibitem{gao2025reframing}
 \textbf{Bowen Gao\ec}, Haichuan Tan\ec, Yanwen Huang, Minsi Ren, Xiao Huang,
   Wei-Ying Ma, Ya-Qin Zhang, and Yanyan Lan.
@@ -55,6 +38,14 @@ Yanwen Huang\ec, \textbf{Bowen Gao}\ec, Yinjun Jia, Hongbo Ma, Wei-Ying Ma,
   Metrics Correlated to Practical Needs}.
 \newblock In {\em \textbf{The Thirteenth International Conference on Learning
   Representations}}, \textbf{2025}.
+
+\bibitem{huang2024siu}
+Yanwen Huang\ec, \textbf{Bowen Gao}\ec, Yinjun Jia, Hongbo Ma, Wei-Ying Ma,
+  Ya-Qin Zhang, and Yanyan Lan.
+\newblock \textbf{SIU: A Million-Scale Structural Small Molecule-Protein
+  Interaction Dataset for Unbiased Bioactivity Prediction}.
+\newblock In {\em \textbf{International Conference on Learning Representations
+  (ICLR)}}, \textbf{2025}.
 
 \bibitem{gaorethinking}
 \textbf{Bowen Gao}\ec, Minsi Ren\ec, Yuyan Ni, Yanwen Huang, Bo~Qiang, Zhi-Ming
@@ -87,6 +78,14 @@ Bo~Qiang, Yuxuan Song, Minkai Xu, Jingjing Gong, \textbf{Bowen Gao}, Hao Zhou,
   generation in 3d}.
 \newblock In {\em \textbf{International Conference on Machine Learning
   (ICML)}}, \textbf{2023}.
+
+\bibitem{jia2024deep}
+Yinjun jia\ec, \textbf{Bowen Gao\ec}, Jiaxin Tan\ec, Jiqing Zheng\ec, Xin
+  Hong\ec, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei
+  Yuan, et~al.
+\newblock \textbf{Deep contrastive learning enables genome-wide virtual
+  screening}.
+\newblock {\em Under Review}, 2025.
 
 \bibitem{zhu2025coder}
 Wenyu Zhu, Chengzhu Li, Xiaohe Tian, Yifan Wang, Yinjun Jia, Jianhui Wang,
