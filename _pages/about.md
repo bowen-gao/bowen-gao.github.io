@@ -44,10 +44,6 @@ Jianhui Wang\*, Wenyu Zhu\*, **Bowen Gao\***, Xin Hong, Ya-Qin Zhang, Wei-Ying M
 
 <h3 style="background: linear-gradient(135deg, #6A1B9A 0%, #8E24AA 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📅 2025</h3>
 
-**Deep Contrastive Learning Enables Genome-wide Virtual Screening**  
-Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Jiqing Zheng\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, et al.  
-<span style="color: #DC143C; font-weight: bold;">⭐ Science 2025 (Under Review)</span> / [Paper](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf){:target="_blank"}
-
 **CIDD: Collaborative Intelligence for Structure-Based Drug Design Empowered by LLMs**  
 **Bowen Gao\***, Yanwen Huang\*, Yiqiao Liu, Wenxuan Xie, Bowei He, Haichuan Tan, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
 <span style="color: #2E8B57; font-weight: bold;">🧠 NeurIPS 2025</span> / [Paper](#){:target="_blank"}
@@ -86,6 +82,10 @@ Bo Qiang\*, Yuxuan Song\*, Minkai Xu, Jingjing Gong, **Bowen Gao**, Hao Zhou, We
 
 Preprints <span style="font-size: 15px;">(\* equal contribution)</span>
 ======
+
+**Deep Contrastive Learning Enables Genome-wide Virtual Screening**  
+Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Jiqing Zheng\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, et al.  
+<span style="color: #DC143C; font-weight: bold;">Under Review</span> / [Paper](https://www.biorxiv.org/content/10.1101/2024.09.02.610777v1.full.pdf){:target="_blank"}
 
 **PharmAgents: Building a Virtual Pharma with Large Language Model Agents**  
 **Bowen Gao\***, Yanwen Huang\*, Yiqiao Liu\*, Wenxuan Xie\*, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan  
