@@ -94,17 +94,24 @@ Wenyu Zhu, Chengzhu Li, Xiaohe Tian, Yifan Wang, Yinjun Jia, Jianhui Wang,
   Optimization}.
 \newblock {\em arXiv preprint arXiv:2510.14455}, 2025.
 
+\bibitem{hong2025good}
+Xin* Hong, \textbf{Bowen Gao*}, Yinjun Jia, Wenyu Zhu, Qixuan Chen, Xiaohe
+  Tian, Zhenyi Zhong, Jianhui Wang, and Yanyan Lan.
+\newblock \textbf{How Good is AlphaFold3 at Ranking Drug Binding Affinities?}
+\newblock In {\em \textbf{ICML GenBio Workshop}}, \textbf{2025}.
+
+\bibitem{tan2025multi}
+Haichuan* Tan, \textbf{Bowen Gao*}, Jiaxin Li, Yanwen Huang, Wenyu Zhu, Jianhui
+  Wang, Yinjun Jia, Yuanhuan Mo, Ya-Qin Zhang, Wei-Ying Ma, et~al.
+\newblock \textbf{Multi-Granular Contrastive Alignment and Fusion for
+  Fragment-Enhanced Virtual Screening}.
+\newblock In {\em \textbf{ICML GenBio Workshop}}, \textbf{2025}.
+
 \bibitem{gao2025pharmagents}
 \textbf{Bowen Gao\ec}, Yanwen Huang\ec, Yiqiao Liu\ec, Wenxuan Xie\ec, Wei-Ying
   Ma, Ya-Qin Zhang, and Yanyan Lan.
 \newblock \textbf{Pharmagents: Building a virtual pharma with large language
   model agents}.
 \newblock {\em arXiv:2503.22164}, 2025.
-
-\bibitem{mo2024multi}
-Yuanle Mo, Xin Hong, \textbf{Bowen Gao}, Yinjun Jia, and Yanyan Lan.
-\newblock \textbf{Multi-level Interaction Modeling for Protein Mutational
-  Effect Prediction}.
-\newblock {\em arXiv:2405.17802}, 2024.
 
 \end{thebibliography}

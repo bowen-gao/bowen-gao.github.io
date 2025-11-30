@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.11.7)  28 NOV 2025 16:56
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.11.7)  30 NOV 2025 18:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -363,10 +363,10 @@ Package rerunfilecheck Info: File `resume_faangpath.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9914 strings out of 478190
- 155899 string characters out of 5854813
- 476987 words of memory out of 5000000
- 30412 multiletter control sequences out of 15000+600000
+ 9918 strings out of 478190
+ 155980 string characters out of 5854813
+ 477003 words of memory out of 5000000
+ 30416 multiletter control sequences out of 15000+600000
  472422 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,5n,78p,588b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
