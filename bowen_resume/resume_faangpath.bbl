@@ -15,6 +15,14 @@ Jianhui Wang*, Wenyu Zhu*, \textbf{Bowen Gao*}, Xin Hong, Ya-Qin Zhang,
 \newblock In {\em \textbf{AAAI Conference on Artificial Intelligence (AAAI)}},
   \textbf{2026}.
 
+\bibitem{jia2024deep}
+Yinjun jia\ec, \textbf{Bowen Gao\ec}, Jiaxin Tan\ec, Jiqing Zheng\ec, Xin
+  Hong\ec, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei
+  Yuan, et~al.
+\newblock \textbf{Deep contrastive learning enables genome-wide virtual
+  screening}.
+\newblock {\em \textbf{Science}}, \textbf{2025}.
+
 \bibitem{gao2025cidd}
 \textbf{Bowen Gao\ec}, Yanwen Huang\ec, Yiqiao Liu, Wenxuan Xie, Bowei He,
   Haichuan Tan, Wei-Ying Ma, Ya-Qin Zhang, and Yanyan Lan.
@@ -78,14 +86,6 @@ Bo~Qiang, Yuxuan Song, Minkai Xu, Jingjing Gong, \textbf{Bowen Gao}, Hao Zhou,
   generation in 3d}.
 \newblock In {\em \textbf{International Conference on Machine Learning
   (ICML)}}, \textbf{2023}.
-
-\bibitem{jia2024deep}
-Yinjun jia\ec, \textbf{Bowen Gao\ec}, Jiaxin Tan\ec, Jiqing Zheng\ec, Xin
-  Hong\ec, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei
-  Yuan, et~al.
-\newblock \textbf{Deep contrastive learning enables genome-wide virtual
-  screening}.
-\newblock {\em Under Review}, 2025.
 
 \bibitem{zhu2025coder}
 Wenyu Zhu, Chengzhu Li, Xiaohe Tian, Yifan Wang, Yinjun Jia, Jianhui Wang,
