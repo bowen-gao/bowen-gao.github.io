@@ -34,13 +34,17 @@ Publications <span style="font-size: 15px;">(\* equal contribution)</span>
 
 <h3 style="background: linear-gradient(135deg, #6A1B9A 0%, #8E24AA 100%); color: white; padding: 10px 20px; border-radius: 8px; font-size: 22px; margin-top: 25px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📅 2026</h3>
 
-**Drug: Bridging Protein Sequence and 3D Structure in Contrastive Representation Learning for Virtual Screening**  
+**S²Drug: Bridging Protein Sequence and 3D Structure in Contrastive Representation Learning for Virtual Screening**  
 Bowei He, **Bowen Gao**, Yankai Chen, Yanyan Lan, Chen Ma, Philip S. Yu, Ya-Qin Zhang, Wei-Ying Ma  
 <span style="color: #9C27B0; font-weight: bold;">🤖 AAAI 2026</span> / [Paper](#){:target="_blank"}
 
 **Learning Protein–Ligand Binding in Hyperbolic Space**  
 Jianhui Wang\*, Wenyu Zhu\*, **Bowen Gao\***, Xin Hong, Ya-Qin Zhang, Wei-Ying Ma, Yanyan Lan  
 <span style="color: #9C27B0; font-weight: bold;">🤖 AAAI 2026</span> / [Paper](#){:target="_blank"}
+
+**Drugging the Undruggable: Benchmarking and Modeling Fragment-Based Screening**  
+Haichuan Tan\*, **Bowen Gao\***, Jiaxin Li, Yinjun Jia, Wenyu Zhu, Wenxuan Xie, Yihong Liu, Yanwen Huang, Jianhui Wang, Yuanhuan Mo, Ya-Qin Zhang, Wei-Ying Ma, Yanyan Lan  
+<span style="color: #4169E1; font-weight: bold;">🎓 ICLR 2026</span> / [Paper](#){:target="_blank"}
 
 **Deep Contrastive Learning Enables Genome-wide Virtual Screening**  
 Yinjun Jia\*, **Bowen Gao\***, Jiaxin Tan\*, Jiqing Zheng\*, Xin Hong\*, Wenyu Zhu, Haichuan Tan, Yuan Xiao, Yanwen Huang, Yue Jin, Yafei Yuan, et al.  
